@@ -7,4 +7,5 @@
  django-admin startproject djangoBook
  cd djangoBook
  python manage.py startapp hi
+ python manage.py runserver
  ```
