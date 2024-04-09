@@ -1,3 +1,4 @@
+```bash
  python3 -m venv myEnv
  source myEnv/bin/activate
  deactivate
@@ -6,3 +7,4 @@
  django-admin startproject djangoBook
  cd djangoBook
  python manage.py startapp hi
+ ```
